@@ -1,0 +1,10 @@
+D:\Source\VS2019\Miner\bin\Debug\Miner.exe.config
+D:\Source\VS2019\Miner\bin\Debug\Miner.exe
+D:\Source\VS2019\Miner\bin\Debug\Miner.pdb
+D:\Source\VS2019\Miner\obj\Debug\Miner.csprojAssemblyReference.cache
+D:\Source\VS2019\Miner\obj\Debug\Miner.Form1.resources
+D:\Source\VS2019\Miner\obj\Debug\Miner.Properties.Resources.resources
+D:\Source\VS2019\Miner\obj\Debug\Miner.csproj.GenerateResource.cache
+D:\Source\VS2019\Miner\obj\Debug\Miner.csproj.CoreCompileInputs.cache
+D:\Source\VS2019\Miner\obj\Debug\Miner.exe
+D:\Source\VS2019\Miner\obj\Debug\Miner.pdb
