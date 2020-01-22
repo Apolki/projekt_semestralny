@@ -1,1 +1,1 @@
-# projekt_semestralny
+# projekt_semestralny - Miner
