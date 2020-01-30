@@ -1,0 +1,43 @@
+D:\Source\VS2019\Miner1\bin\Debug\Miner1.exe.config
+D:\Source\VS2019\Miner1\bin\Debug\Miner1.exe
+D:\Source\VS2019\Miner1\bin\Debug\Miner1.pdb
+D:\Source\VS2019\Miner1\obj\Debug\Miner1.csprojAssemblyReference.cache
+D:\Source\VS2019\Miner1\obj\Debug\MainWindow.g.cs
+D:\Source\VS2019\Miner1\obj\Debug\App.g.cs
+D:\Source\VS2019\Miner1\obj\Debug\Miner1_MarkupCompile.cache
+D:\Source\VS2019\Miner1\obj\Debug\Miner1_MarkupCompile.lref
+D:\Source\VS2019\Miner1\obj\Debug\MainWindow.baml
+D:\Source\VS2019\Miner1\obj\Debug\Miner1.g.resources
+D:\Source\VS2019\Miner1\obj\Debug\Miner1.Properties.Resources.resources
+D:\Source\VS2019\Miner1\obj\Debug\Miner1.csproj.GenerateResource.cache
+D:\Source\VS2019\Miner1\obj\Debug\Miner1.csproj.CoreCompileInputs.cache
+D:\Source\VS2019\Miner1\obj\Debug\Miner1.exe
+D:\Source\VS2019\Miner1\obj\Debug\Miner1.pdb
+C:\Users\Andrii\Desktop\Miner1\Miner1\bin\Debug\Miner1.exe.config
+C:\Users\Andrii\Desktop\Miner1\Miner1\bin\Debug\Miner1.exe
+C:\Users\Andrii\Desktop\Miner1\Miner1\bin\Debug\Miner1.pdb
+C:\Users\Andrii\Desktop\Miner1\Miner1\obj\Debug\Miner1.csprojAssemblyReference.cache
+C:\Users\Andrii\Desktop\Miner1\Miner1\obj\Debug\MainWindow.g.cs
+C:\Users\Andrii\Desktop\Miner1\Miner1\obj\Debug\App.g.cs
+C:\Users\Andrii\Desktop\Miner1\Miner1\obj\Debug\Miner1_MarkupCompile.cache
+C:\Users\Andrii\Desktop\Miner1\Miner1\obj\Debug\Miner1_MarkupCompile.lref
+C:\Users\Andrii\Desktop\Miner1\Miner1\obj\Debug\MainWindow.baml
+C:\Users\Andrii\Desktop\Miner1\Miner1\obj\Debug\Miner1.g.resources
+C:\Users\Andrii\Desktop\Miner1\Miner1\obj\Debug\Miner1.Properties.Resources.resources
+C:\Users\Andrii\Desktop\Miner1\Miner1\obj\Debug\Miner1.csproj.GenerateResource.cache
+C:\Users\Andrii\Desktop\Miner1\Miner1\obj\Debug\Miner1.exe
+C:\Users\Andrii\Desktop\Miner1\Miner1\obj\Debug\Miner1.pdb
+C:\Users\Daniel Andrushchenko\Downloads\Miner1\Miner1\bin\Debug\Miner1.exe.config
+C:\Users\Daniel Andrushchenko\Downloads\Miner1\Miner1\bin\Debug\Miner1.exe
+C:\Users\Daniel Andrushchenko\Downloads\Miner1\Miner1\bin\Debug\Miner1.pdb
+C:\Users\Daniel Andrushchenko\Downloads\Miner1\Miner1\obj\Debug\Miner1.csprojAssemblyReference.cache
+C:\Users\Daniel Andrushchenko\Downloads\Miner1\Miner1\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel Andrushchenko\Downloads\Miner1\Miner1\obj\Debug\App.g.cs
+C:\Users\Daniel Andrushchenko\Downloads\Miner1\Miner1\obj\Debug\Miner1_MarkupCompile.cache
+C:\Users\Daniel Andrushchenko\Downloads\Miner1\Miner1\obj\Debug\Miner1_MarkupCompile.lref
+C:\Users\Daniel Andrushchenko\Downloads\Miner1\Miner1\obj\Debug\MainWindow.baml
+C:\Users\Daniel Andrushchenko\Downloads\Miner1\Miner1\obj\Debug\Miner1.g.resources
+C:\Users\Daniel Andrushchenko\Downloads\Miner1\Miner1\obj\Debug\Miner1.Properties.Resources.resources
+C:\Users\Daniel Andrushchenko\Downloads\Miner1\Miner1\obj\Debug\Miner1.csproj.GenerateResource.cache
+C:\Users\Daniel Andrushchenko\Downloads\Miner1\Miner1\obj\Debug\Miner1.exe
+C:\Users\Daniel Andrushchenko\Downloads\Miner1\Miner1\obj\Debug\Miner1.pdb
